@@ -1,0 +1,83 @@
+/* SailBoat FREE Foundation 5 website template */
+  
+h1 {margin-top:1rem;}
+.home-image { background:url(../images/hero.jpg) no-repeat;background-position:50px -220px;}
+.loading-image {
+ width: 80px;
+    height: 80px;
+    background:transparent url('../images/2.gif') no-repeat 0 0;
+    font-size: 0px;
+    align: center !important;
+    display: none;}
+.blue_mark {
+margin-top:3.5rem;
+margin-right:2rem;
+padding:1rem;
+color:#fff;
+}
+.blue_mark {
+-webkit-text-shadow: 1px 1px rgba(0,0,0,0.75);
+-moz-text-shadow: 1px 1px rgba(0,0,0,0.75);
+text-shadow: 1px 1px rgba(0,0,0,0.45);
+}
+.blue_mark h3 {color:#fff;font-weight:bold;}
+.lighten {padding-top:1.5rem;background:#E9EEF0;color:#64767F;min-height:50px;}
+.lighten a:hover {text-decoration:underline;}
+.left-menu {color:#64767F;}
+.left-menu ul li {font-size:1rem;line-height:2.5rem;border-bottom:1px solid #CBDBE3;margin:0 -0.925rem 0 -0.925rem;}
+.left-menu ul li.active a {background:#E1E8EC;}
+.left-menu a {color:#64767F;display:block;padding:0 1rem 0 1rem;}
+.left-menu a:hover {background:#DEE5E9;text-decoration:none;}
+.left-menu ul li.active a:hover {background:#DEE5E9;}
+.blue {padding-top:1.5rem;background:#1F536D;color:#e4e4e4;}
+.blue a {color:#90B8CC;}
+.blue a:hover {text-decoration:underline;}
+
+/* parent-link js-generated fix */
+.parent-link {display:none!important;}
+/* end fix */
+
+/* Footer styles */
+.prefooter {
+background:#393939;
+border-bottom:1px solid #797979;
+padding:2rem 0;
+border-top:1rem solid #292929;
+margin-top:1rem;
+}
+
+.prefooter, .prefooter p,
+.footer, .footer p {font-size:0.8rem;}
+.prefooter h6 {color:#ccc;text-transform:uppercase;}
+.prefooter ul li {font-size:0.8rem;line-height:2.5rem;border-bottom:1px solid #292929;}
+.prefooter ul li a {display:block;padding-left:0.5rem;}
+.prefooter ul li a:hover {background:#333;}
+.footer {background:#292929;}
+.prefooter, .footer {color:#8C8989;}
+.pad1 {padding:1rem 0;}
+.footer a, .prefooter a {color:#ccc;}
+.footer a:hover, .prefooter a:hover {color:#D1E751;}
+
+/* Alert boxes */
+.alert-box.success {
+background-color: #26ADE4;
+border-color: #3a945b;
+color: #FFFFFF;}
+.alert-box.alert {
+background-color: #F02311;
+border-color: #de2d0f;
+color: #FFFFFF;}
+.alert-box.warning {
+background-color: #FC913A;
+border-color: #de770f;
+color: #FFFFFF;}
+.alert-box.info {
+background-color: #a0d3e8;
+border-color: #74bfdd;
+color: #4f4f4f;}
+
+@media only screen and (max-width: 40em) {
+  .blue_mark {margin-top:2.5rem;margin-right:0rem;}
+
+}
+

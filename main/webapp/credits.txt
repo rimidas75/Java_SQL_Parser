@@ -1,0 +1,17 @@
+
+========= Author ==============
+
+Black Sailor
+http://www.blacksailor.com/en/
+
+========= Credits =============
+
+ZURB Foundation 5
+http://foundation.zurb.com/
+
+Font Awesome
+http://fortawesome.github.io/Font-Awesome/
+
+Demo Images
+http://pixabay.com/
+
